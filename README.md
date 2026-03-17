@@ -1,4 +1,9 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
+
+Name:Vignesh P
+
+Reg no:212222210027
+
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
@@ -37,10 +42,15 @@ Note the corresponding current reading in Ammeter.
 3. Repeat step-2 by increasing the voltage in steps of 1V, till 20V.
 4. Plot a graph taking the voltage (V) on X-axis and current (I) on Y-axis
 Tabulation :
-<img width="538" height="403" alt="image" src="https://github.com/user-attachments/assets/a84e65bb-feef-4662-ba01-38d4302f06fe" />
+![WhatsApp Image 2026-03-17 at 2 39 41 PM](https://github.com/user-attachments/assets/d30f66fa-7dba-4c19-a73a-bf30cbc85553)
+
 
 Model Graph:
 <img width="436" height="280" alt="image" src="https://github.com/user-attachments/assets/35837165-c967-457c-aadf-efd2dfd31abc" />
 
 
 Result:
+![WhatsApp Image 2026-03-17 at 2 39 59 PM](https://github.com/user-attachments/assets/de823b4e-42de-43a0-a55b-0b5bb1badad3)
+![WhatsApp Image 2026-03-17 at 2 40 14 PM](https://github.com/user-attachments/assets/d6f2a229-809a-4e31-81c1-6d9f07eb6b16)
+
+
