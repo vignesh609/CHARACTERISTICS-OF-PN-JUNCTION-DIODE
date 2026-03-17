@@ -41,12 +41,15 @@ ii. Reverse bias condition
 Note the corresponding current reading in Ammeter.
 3. Repeat step-2 by increasing the voltage in steps of 1V, till 20V.
 4. Plot a graph taking the voltage (V) on X-axis and current (I) on Y-axis
+   
 Tabulation :
 ![WhatsApp Image 2026-03-17 at 2 39 41 PM](https://github.com/user-attachments/assets/d30f66fa-7dba-4c19-a73a-bf30cbc85553)
 
 
+
 Model Graph:
 <img width="436" height="280" alt="image" src="https://github.com/user-attachments/assets/35837165-c967-457c-aadf-efd2dfd31abc" />
+
 
 
 Result:
